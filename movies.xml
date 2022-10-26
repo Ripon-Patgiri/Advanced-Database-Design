@@ -32,23 +32,25 @@
     </MOVIE>
 
     <MOVIE>
-        <TITLE>Whiplash</TITLE>
+        <TITLE>The Imitation Game</TITLE>
         <YEAR>2014</YEAR>
-        <DIRECTOR>Damien Chazelle</DIRECTOR>
+        <DIRECTOR>Morten Tyldum</DIRECTOR>
         <GENRE>Drama</GENRE>
-        <GENRE>Music</GENRE>
-        <RUNTIME>1h46m</RUNTIME>
-        <RATING>8.5</RATING>
+        <GENRE>Biography</GENRE>
+        <GENRE>Thriller</GENRE>
+        <RUNTIME>1h54m</RUNTIME>
+        <RATING>8</RATING>
     </MOVIE>
 
     <MOVIE>
-        <TITLE>Whiplash</TITLE>
+        <TITLE>John Wick</TITLE>
         <YEAR>2014</YEAR>
-        <DIRECTOR>Damien Chazelle</DIRECTOR>
-        <GENRE>Drama</GENRE>
-        <GENRE>Music</GENRE>
-        <RUNTIME>1h46m</RUNTIME>
-        <RATING>8.5</RATING>
+        <DIRECTOR>Chad Stahelski</DIRECTOR>
+        <GENRE>Action</GENRE>
+        <GENRE>Crime</GENRE>
+        <GENRE>Thriller</GENRE>
+        <RUNTIME>1h41m</RUNTIME>
+        <RATING>7.4</RATING>
     </MOVIE>
 
 </movies>
