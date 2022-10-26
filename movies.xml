@@ -1,0 +1,54 @@
+<movies>
+
+    <MOVIE>
+        <TITLE>Whiplash</TITLE>
+        <YEAR>2014</YEAR>
+        <DIRECTOR>Damien Chazelle</DIRECTOR>
+        <GENRE>Drama</GENRE>
+        <GENRE>Music</GENRE>
+        <RUNTIME>1h46m</RUNTIME>
+        <RATING>8.5</RATING>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLE>Parasite</TITLE>
+        <YEAR>2019</YEAR>
+        <DIRECTOR>Bong Joon Ho</DIRECTOR>
+        <GENRE>Drama</GENRE>
+        <GENRE>Thriller</GENRE>
+        <RUNTIME>2h12m</RUNTIME>
+        <RATING>8.5</RATING>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLE>Joker</TITLE>
+        <YEAR>2019</YEAR>
+        <DIRECTOR>Todd Phillips</DIRECTOR>
+        <GENRE>Drama</GENRE>
+        <GENRE>Crime</GENRE>
+        <GENRE>Thriller</GENRE>
+        <RUNTIME>2h2m</RUNTIME>
+        <RATING>8.4</RATING>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLE>Whiplash</TITLE>
+        <YEAR>2014</YEAR>
+        <DIRECTOR>Damien Chazelle</DIRECTOR>
+        <GENRE>Drama</GENRE>
+        <GENRE>Music</GENRE>
+        <RUNTIME>1h46m</RUNTIME>
+        <RATING>8.5</RATING>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLE>Whiplash</TITLE>
+        <YEAR>2014</YEAR>
+        <DIRECTOR>Damien Chazelle</DIRECTOR>
+        <GENRE>Drama</GENRE>
+        <GENRE>Music</GENRE>
+        <RUNTIME>1h46m</RUNTIME>
+        <RATING>8.5</RATING>
+    </MOVIE>
+
+</movies>
